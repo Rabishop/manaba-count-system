@@ -1,0 +1,41 @@
+[
+    {
+        "domain": ".manaba.tsukuba.ac.jp",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sharedid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": "0",
+        "value": "4b7666438c464b8387083cd5c7c7b66a",
+        "id": 1
+    },
+    {
+        "domain": "manaba.tsukuba.ac.jp",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "_shibsession_64656661756c7468747470733a2f2f6d616e6162612e7473756b7562612e61632e6a702f73686962626f6c657468",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": true,
+        "session": true,
+        "storeId": "0",
+        "value": "_ddf1c77139d4fa06e5e48dbd86f013eb",
+        "id": 2
+    },
+    {
+        "domain": "manaba.tsukuba.ac.jp",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "sessionid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": "0",
+        "value": "4b7666438c464b8387083cd5c7c7b66a",
+        "id": 3
+    }
+    ]
